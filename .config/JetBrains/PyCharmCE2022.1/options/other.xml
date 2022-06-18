@@ -1,0 +1,56 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2AfiulciT5oQ9eo2cWIe1gfxHkw">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Fira Code" />
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="13.0" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "KEYMAP": "console\nterminal",
+    "MarketplacePluginsSearchHistory": "darker\nda",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "PyCharm.InitialConfiguration": "true",
+    "PyCharm.InitialConfiguration.V2": "true",
+    "PyCharm.InitialConfiguration.V3": "true",
+    "PyCharm.InitialConfiguration.V4": "true",
+    "PyCharm.InitialConfiguration.V5": "true",
+    "PyCharm.InitialConfiguration.V6": "true",
+    "PyCharm.InitialConfiguration.V7": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "appcds.runOnSecondStart": "PC-221.5787.24-15ab67b68dc633c11eeddf1ed449b166f58348fdd8a3ddd0d4c2030b99d8a2d0",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "PC-221.5787.24",
+    "experimentalFeature.terminal.shell.command.handling": "false",
+    "file.gist.reindex.count": "7",
+    "fileTypeChangedCounter": "2",
+    "gotit.previous.run": "PC-221.5787.24",
+    "ide.memory.adjusted": "true",
+    "input.method.disabler.muted": "true",
+    "registry.to.advanced.settings.migration.build": "PC-221.5787.24",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="scripts-history" project-path="$USER_HOME$/PycharmProjects/scripts" last-access-time="1655407417911" />
+    </command-history-files>
+  </component>
+</application>
