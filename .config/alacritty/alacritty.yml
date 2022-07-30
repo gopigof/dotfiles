@@ -645,13 +645,20 @@ colors: *GruvboxDark
 #   - (macOS) /bin/bash --login
 #   - (Linux/BSD) user login shell
 #   - (Windows) powershell
+
 shell:
   program: /usr/bin/zsh
   args:
-    - -l
-#    - -c
-#    - "tmux attach || tmux"
+  - -l
+  - -c
+  - "zellij attach --index 0 --create"
 
+#shell:
+#  program: ~/.cargo/bin/zellij
+#  args:
+#    - options
+#    - --default-mode
+ 
 # Startup directory
 #
 # Directory the shell is started in. If this is unset, or `None`, the working
